@@ -6,3 +6,11 @@ Does every situation have a solution? Is it acceptable? is it a solution to an i
 
 I would like to give a sizable list of problems which didn't get solved as intended. Some of these problems got worse, or mutated into other bigger problems. I'll leave it up to the reader to decide whether we gained a better understanding of the problem after the intervention. Must we always employ an intervention, or is it justifiable to resist the urge? What tools can we use to consider the chance of a negative outcome as a result of our intervention?
 
+Problems pop up in all areas of life, from annoyances to full on state-warfare. Some are funny and some are controversial (but deserve to be discussed as daylight is the best disinfectant of ideas)
+
+- Streissand Effect
+- Funny paradoxes
+- Serious paradoxes
+- Paradoxes in epidemiology
+- Paradoxes in medicinal literature
+- Paradoxes in thought
