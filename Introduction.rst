@@ -15,4 +15,4 @@ Problems pop up in all areas of life, from annoyances to full on state-warfare. 
 - Paradoxes in epidemiology
 - Paradoxes in medicinal literature
 - Paradoxes in thought
-  - aeroplanes and bullet holes
+   - aeroplanes and bullet holes
