@@ -11,6 +11,7 @@ Problems pop up in all areas of life, from annoyances to full on state-warfare. 
 - Streissand Effect
 - Funny paradoxes
 - Serious paradoxes
+    - The bail project. (guy freed while in custody for attacking wife, comes out and murders wife)
 - Poetic Justice
 - Paradoxes in epidemiology
 - Paradoxes in medicinal literature
